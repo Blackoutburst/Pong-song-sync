@@ -5,7 +5,7 @@ A Pong game with 2 bot, the speed of the ball is base on the rhythm of the song.
 Every effect and movement depend of the speed the song, i manually mapped the song to get a better render.
 
 ## How to build
-Clone this repo indise Eclipse IDE and build it this way (you maybe nedd to link jar file inside libs folder and same for all natives inside libs/natives folder)
+Clone this repo inside Eclipse IDE and build it this way (you maybe nedd to link jar file inside libs folder and same for all natives inside libs/natives folder)
 
 ## Demo
 [YouTube](https://www.youtube.com/watch?v=HrEQaj-_Z4E)
