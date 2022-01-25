@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/Blackoutburst/Pong-song-sync.svg)](LICENSE)
+[<img src="https://img.shields.io/badge/Webpage-Rhythm Pong-blueviolet">](https://www.blackoutburst.com/pong.html)
 # Pong Song Sync
 A Pong game with 2 bot, the speed of the ball is base on the rhythm of the song.
 
